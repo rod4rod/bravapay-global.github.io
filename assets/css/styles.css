@@ -6697,7 +6697,7 @@ header, section {
 }
 
 .process-subitem__ico {
-	font-size: 15px;
+	font-size: 18px;
 	color: #fff;
 	font-weight: 700;
 	letter-spacing: 2px;
@@ -7496,7 +7496,7 @@ header, section {
 .offer-2-item {
 	position: relative;
 	overflow: hidden;
-	height: 650px;
+	height: 600px;
 	text-align: left;
 }
 
@@ -9403,7 +9403,7 @@ header, section {
 
 ********************************/
 .blog {
-	margin-top: 50px;
+	margin-top: 150px;
 }
 
 .blog-slider {
@@ -9638,8 +9638,8 @@ header, section {
 }
 
 .post-wrap {
-	margin-left: 100px;
-	padding-right: 15px;
+	margin-left: 20px;
+	padding-right: 20px;
 }
 
 .post-content {
@@ -9647,9 +9647,19 @@ header, section {
 }
 
 .post-content__paragraph {
-	margin: 30px 0;
+	margin: 10px 0;
 	font-weight: 300;
 	line-height: 1.4;
+	font-size: 17px;
+	color: #000;
+}
+
+
+.post-content__subhead {
+	margin: 10px 0;
+	font-weight: 600;
+	line-height: 1.4;
+	font-size: 20px;
 }
 
 .post-content__paragraph:last-of-type {
@@ -9691,6 +9701,7 @@ header, section {
 	display: block;
 	text-align: right;
 }
+
 
 .post-meta {
 	vertical-align: middle;
